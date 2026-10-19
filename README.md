@@ -5,6 +5,8 @@ I'm retraining as a **Fachinformatiker für Daten- und Prozessanalyse** (IHK) in
 🔎 **Looking for a 6-month internship (Praktikum) from 25 February 2027** in data or process analysis, Moers / Duisburg / Ruhr area.
 *Ich suche ein 6-monatiges Praktikum ab dem 25.02.2027 im Bereich Daten- und Prozessanalyse.*
 
+📫 [LinkedIn](https://www.linkedin.com/in/sarunas-ramanauskas-176019207/)
+
 ### Tools I work with
 
 **Data:** Python (pandas, NumPy, scikit-learn, matplotlib), SQL, Power BI
